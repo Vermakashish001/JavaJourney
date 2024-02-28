@@ -7,4 +7,4 @@ public class whileLoop{
             i++;//i=i+1
         }
     }
-}
+} 
