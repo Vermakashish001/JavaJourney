@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hashing{
+public class hashSet{
     public static void main(String [] args){
         HashSet<Integer> set = new HashSet<>(); 
         // Inset
